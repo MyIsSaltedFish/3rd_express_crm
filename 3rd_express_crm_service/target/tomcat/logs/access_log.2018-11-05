@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:29:29 +0800] "GET /customer/customerServiceImpl?wsdl HTTP/1.1" 404 1007 http-bio-8084-exec-1 83
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:29:29 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-2 1
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:29:35 +0800] "GET /customer/customerServiceImpl?wsdl HTTP/1.1" 404 1007 http-bio-8084-exec-3 2
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:29:35 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-4 2
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:30:16 +0800] "GET /customer/customerServiceImpl?wsdl HTTP/1.1" 404 1007 http-bio-8084-exec-5 1
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:30:16 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-6 2
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:31:34 +0800] "GET /service/customer?wsdl HTTP/1.1" 200 2009 http-bio-8084-exec-8 320
+0:0:0:0:0:0:0:1 - - [05/Nov/2018:17:31:34 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-9 4
+127.0.0.1 - - [05/Nov/2018:17:34:05 +0800] "POST /service/customer HTTP/1.1" 200 617 http-bio-8084-exec-1 940
+127.0.0.1 - - [05/Nov/2018:17:34:05 +0800] "POST /service/customer HTTP/1.1" 200 781 http-bio-8084-exec-2 940
+127.0.0.1 - - [05/Nov/2018:22:56:12 +0800] "GET /service/customer?wsdl HTTP/1.1" 200 2009 http-bio-8084-exec-1 657
+127.0.0.1 - - [05/Nov/2018:22:56:12 +0800] "GET /service/customer?wsdl=CustomerService.wsdl HTTP/1.1" 200 4515 http-bio-8084-exec-2 107
+127.0.0.1 - - [05/Nov/2018:22:56:12 +0800] "GET /service/customer?wsdl HTTP/1.1" 200 2009 http-bio-8084-exec-3 10
+127.0.0.1 - - [05/Nov/2018:22:56:13 +0800] "GET /service/customer?wsdl=CustomerService.wsdl HTTP/1.1" 200 4515 http-bio-8084-exec-4 9
